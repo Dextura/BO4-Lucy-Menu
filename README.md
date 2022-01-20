@@ -5,6 +5,9 @@ Lucy Menu is a free open source Call of Duty Black Ops 4 GSC Mod Menu, It curren
 <br />
 [![made with hearth by Gillam](https://img.shields.io/badge/Made%20With%20%E2%99%A5%20by-G1llam-red)](https://github.com/G1llam)
 
+ 
+</div>
+
 ## HOW TO INSTALL
 Step 1 -> Watch and follow along this youtube video to correctly install the injector and learn how to inject: https://youtu.be/AGcMTisF6iA
 
